@@ -4,20 +4,6 @@ This project analyzes a housing dataset to uncover factors influencing property 
 
 ---
 
-## 📁 Project Structure
-
-housing-data-analysis/
-├── code/
-│   └── KIRANPYTHON.ipynb # Jupyter Notebook with full analysis
-├── data/
-│   └── housing.xlsx # Housing dataset in Excel format
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-└── .gitignore # (Optional) Ignore cache and environment files
-
-
----
-
 ## 📝 Dataset Description
 
 | Column           | Description                                      |
