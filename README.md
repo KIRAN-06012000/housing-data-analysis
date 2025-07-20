@@ -37,7 +37,7 @@ This project analyzes a housing dataset to uncover factors influencing property 
 2. **Upload Files**  
    Upload the following:
    - `code/KIRANPYTHON.ipynb`
-   - `data/housing.xlsx`
+   - `data/housing.csv`
    - `requirements.txt`
 
 3. **(Optional) Install Required Packages**  
