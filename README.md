@@ -6,7 +6,7 @@ This project analyzes a housing dataset to uncover factors influencing property 
 
 ## 📝 Dataset Description
 
-| Column           | Description                                      |GU
+| Column           | Description                                      |
 |------------------|--------------------------------------------------|
 | `date`           | Date when property info was recorded             |
 | `price`          | Sale price of the property                       |
