@@ -53,25 +53,6 @@ pip install --user -r requirements.txt
 
 ---
 
-## ⚙️ Python Requirements
-
-Add these to `requirements.txt`:
-
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-openpyxl
-jupyterlab
-notebook
-
-Then install with:
-
-pip install --user -r requirements.txt
-
----
-
 ## 📊 Analysis Highlights
 
 - **Data Cleaning**: Missing values, duplicates, type conversions
